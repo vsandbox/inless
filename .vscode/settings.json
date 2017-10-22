@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "jest": true,
+    ".npmignore": true,
+    ".travis.yml": true,
+    ".gitignore": true,
+    "package-lock.json": true,
+    "postcss.config.js": true,
+    "tsconfig.json": true,
+    "node_modules": true,
+    "webpack.config.js": true
+  }
+}
