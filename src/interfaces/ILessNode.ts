@@ -1,5 +1,5 @@
 export interface ILessNode {
+    id: string;
     type: string;
-    [restStringKey: string]: any;
-    [restNumberKey: number]: any;
+    [rest: string]: any;
 }
